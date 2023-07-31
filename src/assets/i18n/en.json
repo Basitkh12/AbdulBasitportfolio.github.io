@@ -1,0 +1,129 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Ab-Resume.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>1+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>React JS  MaterialUI</span> and  applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'> 1 + years as a developer</span>, I sought to train every day. I have worked on <span class='underline'>React Js, Redux, MaterialUI, Bootstrap</span>,  writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covered backend developer roles with <span class='underline'> MySQL</span>. I have led teams having empathy, motivating to partners, and collaboratively setting plans and goals together.",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "SMSAMI",
+      "Title": "Frontend Developer",
+      "Date": "December 2022 - Present",
+      "Description": [
+        "Developed and maintained a web-based application using HTML, CSS, SCSS and Javascript, resulting in improved user experience and increased performance.",
+        "Designed and implemented multiple Plugin's to support multiple applications, using Angular Libraries.",
+        "Implementation of continuous integration and daily backups.",
+        "Worked in team of 3 people in the development of a E-Retail Cloud based solution, Abbas Law, Ready to Munch.",
+        "Used Git, AWS Codecommit for Version Controlling.",
+        "Planning meetings in reports."
+      ]
+    },
+
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Date": "September 2021 - August 2022",
+      "Description": [
+        "Implementing continuous improvements, working on frontend and backend.",
+        "Creating platforms with HTML, CSS  and object-oriented programming paradigms.",
+        "Automation of processes with data structures.",
+        "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "E-Retail Point Pharmacy",
+      "Description": "A Next Generation Cloud based E-Retail System application made from scratch with <span class='underline'>Micro Frontend Technologie's</span>, <span class='underline'>role based setting's</span> and <span class='underline'>user management</span>.",
+      "imgs": [
+        "assets/images/school/image1.1.png",
+        "assets/images/school/image1.2.png",
+        "assets/images/school/image1.3.png",
+        "assets/images/school/image1.4.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "Angular Custom Librarie's",
+        "Angular Material",
+        "NgRx"
+      ]
+    },
+    {
+      "Title": "E-Retail Point Website",
+      "Description": "E-Retail Point is a Point of sale (POS) solution where you can manage all of your business's administrative, management and financial tasks.<span class='underline'> E-Retail Point  </span> can also track sales trends and handle transaction.",
+      "imgs": [
+        "assets/images/bbm/image1.1.png",
+        "assets/images/bbm/image1.2.png",
+        "assets/images/bbm/image1.3.png",
+        "assets/images/bbm/image1.4.png"
+      ],
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Javascript"
+      ]
+    },
+    {
+      "Title": " Ready To Munch",
+      "Description": " Ready to Munch offers a long and detailed list of the best restaurants nearby with menu items at the same restaurants' price, <span class='underline'> with no extra fee </span> available to order food Online with home delivery and takeaway options.",
+      "imgs": [
+        "assets/images/mazhr/image1.1.png",
+        "assets/images/mazhr/image1.2.png",
+        "assets/images/mazhr/image1.3.png",
+        "assets/images/mazhr/image1.4.png"
+      ],
+      "Technologies": ["Angular", "HTML", "Angular Material", "SCSS"]
+    },
+    {
+      "Title": "The Abbas Law",
+      "Description": "We provide our clients with legal services in <span class='underline'> Canadian immigration, tax </span>, and related areas. We advise our clients on their legal rights, duties, and options under Canadian laws.",
+      "imgs": [
+        "assets/images/mazhr/image1.1.1.png",
+        "assets/images/mazhr/image1.1.2.png",
+        "assets/images/mazhr/image1.1.3.png",
+        "assets/images/mazhr/image1.1.4.png"
+      ],
+
+      "Technologies": ["HTML", "Bootstrap", "CSS"]
+    }
+  ],
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "SMSAMI",
+      "Description": "Transform your business with digital IT workflows. Modernize your operations to optimize productivity, cost and resilience with a single platform for IT ",
+
+      "Technologies": ["HTML", "CSS", "SCSS", "Bootstrap"]
+    },
+    {
+      "Title": "Chatloop",
+      "Description": "A single page app which connect with your friend!.",
+
+      "Technologies": ["React Js", "Bootstrap", "3rd Party Library"]
+    },
+    {
+      "Title": "Portfolio",
+      "Description": "Portfolio website for once of my fiverr client.",
+
+      "Technologies": ["React Js", "SCSS", "3rd Party Library"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
